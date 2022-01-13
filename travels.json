@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Caribbean",
+        "temperature": 32.4
+    },
+    {
+        "name": "Australia",
+        "temperature": 35.1
+    },
+    {
+        "name": "France",
+        "temperature": 22.0
+    },
+    {
+        "name": "Algeria",
+        "temperature": 33.7
+    },
+    {
+        "name": "Finland",
+        "temperature": 7.6
+    }
+]
