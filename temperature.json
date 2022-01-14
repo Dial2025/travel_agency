@@ -1,0 +1,13 @@
+{
+    "country": "France",
+    "temperatures": [
+        {
+            "date": "2021-12-04",
+            "temperature": 12
+        },
+        {
+            "date": "2021-12-03",
+            "temperature": 7
+        }
+    ]
+}
